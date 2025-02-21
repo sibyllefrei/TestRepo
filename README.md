@@ -1,2 +1,3 @@
 # TestRepo
-Test Repository
+Testing Repository
+This are my first testings.
